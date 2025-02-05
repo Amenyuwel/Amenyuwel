@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Amenyuwel/count.svg?"  />
-</div>
+<h1 align="center">EMMANUEL MALAGAMBA</h1>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Emman and I'm a Computer Science student from STI-College General Santos.</h2>
+<p align="center">BS IN COMPUTER SCIENCE - STI COLLEGE GENERAL SANTOS</p>
 
 ###
 
-<h2 align="center">TOOLS USED</h2>
+<h2 align="left">TECH STACK</h2>
 
 ###
 
@@ -34,7 +32,7 @@
 
 ###
 
-<p align="center">CONTACT ME</p>
+<h2 align="left">SOCIALS</h2>
 
 ###
 
@@ -49,6 +47,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">STATS</h2>
 
 ###
 
