@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I believe adaptability is one of the key to professional growth. It's about evolving, learning, and transforming challenges into opportunities. This principle guides my approach to technology, problem-solving, and continuous development.</p>
+<p align="center">I believe adaptability is one of the key to professional growth. It's about evolving, learning, and transforming challenges into opportunities. This principle guides my approach to technology, problem solving, and continuous development.</p>
 
 ###
 
